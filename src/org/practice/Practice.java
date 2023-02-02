@@ -6,6 +6,8 @@ public class Practice {
 		String s2 = "Selenium";
 		System.out.println(s1);
 		System.out.println(s2);
+		boolean contains = s2.contains("e");
+		System.out.println(contains);
 	}
 
 }
